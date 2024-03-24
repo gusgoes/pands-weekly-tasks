@@ -1,5 +1,3 @@
-import sys
-
 filename = "text.txt"
 
 def count_letter_e(filename):
